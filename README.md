@@ -10,8 +10,10 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 - [x] Savoir faire :
   - [x] une ordered list
   - [x] et une unordered one
-- [x] Ajouter un [lien] par exemple
-    [lien]:https://www.example.com
+- [x] Ajouter un
+
+[lien]:https://www.example.com
+
 - [x] Ajouter une image
       ![pingouin](https://fr.infantino.com/cdn/shop/products/Yellow_Duck_1024x1024.jpg?v=1516797624)
 - [x] > Faire des
