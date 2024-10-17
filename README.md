@@ -17,11 +17,12 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 - [x] > Faire des
       > blockquotes.
 - [x] Ajouter du `<h1 style="color:red">code !</h1>`
-- [x] Faire des tables
-| Faire | des | tables |
-| ----- | :-: | -----:|
-| oui | c'en | est |
----
+- [x] Savoir faire un tableau
+
+| Faire | des | tableaux |
+| ----- | :-: | ---------|
+| En | voila | un 😄|
+
 - [x] Faire des horizontals rules
 - [x] Ecrire du <p align="center"> HTML </p>
 - [x] Savoir créer une to-do list.
