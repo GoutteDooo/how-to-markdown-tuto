@@ -23,8 +23,10 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 | ----- | :-: | ---------|
 | En | voila | un 😄|
 
+---
+
 - [x] Faire des horizontals rules
-- [x] Ecrire du <p align="center"> HTML </p>
+- [x] Ecrire du <p align="center" style="font-size:5rem">> <strong HTML</strong> </p>
 - [x] Savoir créer une to-do list.
 ## BONUS
 - [x] Savoir qu'on peut y insérer aussi des emojis 🦆 💝
