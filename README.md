@@ -14,8 +14,9 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 
 - [x] Ajouter une image
       ![pingouin](https://fr.infantino.com/cdn/shop/products/Yellow_Duck_1024x1024.jpg?v=1516797624)
-- [x] > Faire des
-      > blockquotes.
+- [x] Faire des blockquotes
+> Exemples de
+> blockquotes
 - [x] Ajouter du `<h1 style="color:red">code !</h1>`
 - [x] Savoir faire un tableau
 
