@@ -18,9 +18,9 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
       > blockquotes.
 - [x] Ajouter du `<h1 style="color:red">code !</h1>`
 - [x] Faire des tables
-      | Faire | des | tables |
-      | ----- | :-: | -----:|
-      | oui | oui | oui |
+| Faire | des | tables |
+| ----- | :-: | -----:|
+| oui | c'en | est |
 ---
 - [x] Faire des horizontals rules
 - [x] Ecrire du <p align="center"> HTML </p>
