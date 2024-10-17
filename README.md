@@ -10,7 +10,7 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 - [x] Savoir faire :
   - [x] une ordered list
   - [x] et une unordered one
-- [x] Ajouter un
+- [x] Ajouter un lien
 
 [lien]:https://www.example.com
 
