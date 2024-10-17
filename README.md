@@ -5,7 +5,7 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 
 # Liste
 - [x] Faire un Hello, world !
-- [x] Faire un Heading : # Markdown is awesome !
+- [x] Faire un Heading
 - [x] Savoir écrire en _italic_, **bold** ou encore en **_combined_**
 - [x] Savoir faire :
   - [x] une ordered list
@@ -17,7 +17,8 @@ Dans l'ordre, ce tuto permet d'apprendre le Markdown :
 - [x] > Faire des
       > blockquotes.
 - [x] Ajouter du `<h1 style="color:red">code !</h1>`
-- [x] | Faire | des | tables |
+- [x] Faire des tables
+      | Faire | des | tables |
       | ----- | :-: | -----:|
       | oui | oui | oui |
 ---
